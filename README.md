@@ -5,7 +5,7 @@
 - 게임의 이름또는 가상의 프로젝트 이름을 레포 이름으로 정한다
 - 만약 공개를 원하면 `Public` 비공개로 하고 싶다면 `Private`를 선택한다 (일반적으로 `Private` 추천)
 - README파일은 따로 추가하지 않는다(체크 안함)
-- [ ] Add a README file (그대로 놔둠)
+- [ ] Add a README file (그대로 놔둠) <br>
 - **중요** Add.gitignore에서 Unity라면 Unity , UnrealEngine이라면 UnrealEngine선택
 ![image](https://github.com/user-attachments/assets/964a85bd-2fc1-4a2f-9171-b83cb041c51e)
 - 다 만든 후에 Create repository 클릭
