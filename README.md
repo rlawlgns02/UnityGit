@@ -17,6 +17,7 @@
 - Add people을 누른후에 공동 작업자의 username, fullname, email중 아무것이나 입력후에 `Add to repository`클릭
 ![image](https://github.com/user-attachments/assets/682aa24e-5522-4835-b0ba-819f5deb4829)
 <br>
-![image](https://github.com/user-attachments/assets/895f75b9-71f2-40a7-9773-ee6a20bc6e9b)
+![image](https://github.com/user-attachments/assets/18ae5c00-e1f1-4497-b6de-d3349ee95f27)
+
 
 - 초대 받은 작업자는 이메일 확인 후 수락
