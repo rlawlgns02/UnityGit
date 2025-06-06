@@ -18,6 +18,13 @@
 ![image](https://github.com/user-attachments/assets/682aa24e-5522-4835-b0ba-819f5deb4829)
 - 프로필을 선택한 후에 `Add to repository`클릭 <br>
 ![image](https://github.com/user-attachments/assets/18ae5c00-e1f1-4497-b6de-d3349ee95f27)
-
-
 - 초대 받은 작업자는 이메일 확인 후 수락
+
+## 3. github 연동
+- `<> Code` 부분을 눌러서 `Open With GitHub Desktop` 클릭
+![image](https://github.com/user-attachments/assets/91ccec38-29cb-45cc-811e-b0d5f93575fa)
+- 만약 GitHub Desktop이 없다면 `https://github.com/apps/desktop` 에서 다운로드
+- 보통 바로 열리지만 만약 바로 열리지 않았다면 URL을 이용해 클론
+
+## 4. github 업로드
+- 만약 자신의 게임 프로젝트를 올리고 싶다면 `Push origin` 버튼 클릭
