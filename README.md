@@ -16,7 +16,7 @@
 ![image](https://github.com/user-attachments/assets/90f9c94d-931b-438e-87d1-bb5fb9049873)
 - Add people을 누른후에 공동 작업자의 username, fullname, email중 아무것이나 입력
 ![image](https://github.com/user-attachments/assets/682aa24e-5522-4835-b0ba-819f5deb4829)
-- 프로필을 선택한 후에 `Add to repository`클릭
+- 프로필을 선택한 후에 `Add to repository`클릭 <br>
 ![image](https://github.com/user-attachments/assets/18ae5c00-e1f1-4497-b6de-d3349ee95f27)
 
 
